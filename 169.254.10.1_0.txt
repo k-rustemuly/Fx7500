@@ -1,0 +1,2 @@
+11-14-2022, 18:54:36.00458 (Begin   )	ERR	CLlrpFW::deregisterNotificationsAndCleanup	[958]	No Connection exists to the Host. 
+11-14-2022, 18:54:36.00461 (000000ms)	ERR	CLlrpFW::updateConnectionState     	[886]	No Connection exists to the Host. RFID_COMM_NO_CONNECTION
